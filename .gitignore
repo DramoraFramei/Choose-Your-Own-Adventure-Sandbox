@@ -210,3 +210,7 @@ __marimo__/
 /.roo
 /output
 /TODO
+/requirements.txt
+/pythonscript.py
+/githubdownloads.txt
+/.prettierrc
